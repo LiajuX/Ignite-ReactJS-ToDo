@@ -24,6 +24,8 @@ export function TaskList() {
     if (newTaskTitle !== '') {
       setTasks(oldTasks => [...oldTasks, newTask]);
     }
+
+    setNewTaskTitle('');
   }
 
   function handleToggleTaskCompletion(id: number) {
