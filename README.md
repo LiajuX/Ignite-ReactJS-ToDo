@@ -35,7 +35,7 @@ This is the first challenge of the ReactJS trail of [Ignite](https://rocketseat.
 
 ## ✅ The Project:
 
-The 1st challenge was to complete a to-do app using logic and the basic concepts of React. By the end of the challenge, tests would be run to check if the app was able to create, complete and delete tasks.<br>
+The 1st challenge was to complete a to-do website using logic and the basic concepts of React. By the end of the challenge, tests would be run to check if the site was able to create, complete and delete tasks.<br>
 <br>
 
 ![Site](https://user-images.githubusercontent.com/53796370/157697461-ae74704c-82fe-45e1-bab5-188054a96109.gif)
